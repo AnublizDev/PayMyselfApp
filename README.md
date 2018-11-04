@@ -1,4 +1,5 @@
-# pay_my_self
+# Pay Myself Application
+Project for study
 
 A new Flutter project.
 
